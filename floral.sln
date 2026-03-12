@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Du_An_Floral", "Du_An_Floral", "{2C0EB750-7CA4-1FCD-8EE3-A3AAADFF5035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "floral1", "Du_An_Floral\floral1.csproj", "{50AC5858-5EA7-591F-CCDD-500EE0C73D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AC5858-5EA7-591F-CCDD-500EE0C73D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AC5858-5EA7-591F-CCDD-500EE0C73D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AC5858-5EA7-591F-CCDD-500EE0C73D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AC5858-5EA7-591F-CCDD-500EE0C73D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50AC5858-5EA7-591F-CCDD-500EE0C73D2A} = {2C0EB750-7CA4-1FCD-8EE3-A3AAADFF5035}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93759840-95EA-4AE8-AD34-D695E414E286}
+	EndGlobalSection
+EndGlobal
